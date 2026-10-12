@@ -239,7 +239,11 @@
     "packDetailBatch": "batch number",
     "packDetailManufacturer": "manufacturer",
     "prescriptionConfirmation": "I checked each medicine name, strength, and instructions against the prescription, pack, or a pharmacist’s directions. DawaiSaathi does not decide what to take.",
-    "prescriptionConfirmationRequired": "Please confirm that you checked the medicines against the prescription, pack, or pharmacist instructions."
+    "prescriptionConfirmationRequired": "Please confirm that you checked the medicines against the prescription, pack, or pharmacist instructions.",
+    "strength": "Strength",
+    "unit": "Unit",
+    "brandPlaceholder": "e.g. Telma 40",
+    "saltPlaceholder": "e.g. telmisartan"
   },
   "authenticity": {
     "sectionTitle": "Packaging check",

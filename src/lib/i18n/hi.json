@@ -239,7 +239,11 @@
     "packDetailBatch": "बैच नंबर",
     "packDetailManufacturer": "निर्माता",
     "prescriptionConfirmation": "मैंने हर दवा का नाम, ताकत और निर्देश पर्चे, पैक या फार्मासिस्ट के निर्देश से मिलाए हैं। दवाई साथी यह तय नहीं करता कि क्या लेना है।",
-    "prescriptionConfirmationRequired": "कृपया पर्चे, पैक या फार्मासिस्ट के निर्देश से दवाइयाँ मिलाने की पुष्टि करें।"
+    "prescriptionConfirmationRequired": "कृपया पर्चे, पैक या फार्मासिस्ट के निर्देश से दवाइयाँ मिलाने की पुष्टि करें।",
+    "strength": "मात्रा",
+    "unit": "इकाई",
+    "brandPlaceholder": "जैसे Telma 40",
+    "saltPlaceholder": "जैसे telmisartan"
   },
   "authenticity": {
     "sectionTitle": "पैकेजिंग जाँच",

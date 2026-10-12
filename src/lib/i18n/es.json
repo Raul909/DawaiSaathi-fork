@@ -239,7 +239,11 @@
     "packDetailBatch": "número de lote",
     "packDetailManufacturer": "fabricante",
     "prescriptionConfirmation": "Revise cada nombre, concentración e instrucción del medicamento contra la receta, el envase o las indicaciones de un farmacéutico. DawaiSaathi no decide qué tomar.",
-    "prescriptionConfirmationRequired": "Confirme que revisó los medicamentos contra la receta, el envase o las indicaciones del farmacéutico."
+    "prescriptionConfirmationRequired": "Confirme que revisó los medicamentos contra la receta, el envase o las indicaciones del farmacéutico.",
+    "strength": "Concentración",
+    "unit": "Unidad",
+    "brandPlaceholder": "p. ej., Telma 40",
+    "saltPlaceholder": "p. ej., telmisartan"
   },
   "authenticity": {
     "sectionTitle": "Comprobación de envase",
