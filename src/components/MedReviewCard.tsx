@@ -131,7 +131,7 @@ export function MedReviewCard({
           >
             {FORMS.map((f) => (
               <option key={f} value={f}>
-                {f}
+                {t(`forms.${f}`)}
               </option>
             ))}
           </select>

@@ -201,7 +201,8 @@
     "choosePhotos": "Elegir fotos",
     "preparing": "Preparando…",
     "photoTooLarge": "Esta foto es demasiado grande. Tómela de nuevo o elija una foto más pequeña.",
-    "networkError": "No pudimos conectar con DawaiSaathi. Revise su conexión a internet e inténtelo de nuevo; sus fotos siguen aquí."
+    "networkError": "No pudimos conectar con DawaiSaathi. Revise su conexión a internet e inténtelo de nuevo; sus fotos siguen aquí.",
+    "perPack": "{n}/envase"
   },
   "review": {
     "title": "Revise lo que encontramos ({n})",
@@ -495,5 +496,14 @@
     "signInRequired": "Inicie sesión de nuevo para ver quién ayuda con el cuidado.",
     "signIn": "Iniciar sesión",
     "backToSettings": "Volver a ajustes"
+  },
+  "forms": {
+    "tablet": "Tableta",
+    "capsule": "Cápsula",
+    "syrup": "Jarabe",
+    "drops": "Gotas",
+    "injection": "Inyección",
+    "cream": "Crema",
+    "other": "Otro"
   }
 }

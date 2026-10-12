@@ -201,7 +201,8 @@
     "choosePhotos": "Choose photos",
     "preparing": "Preparing…",
     "photoTooLarge": "This photo is too large to upload. Please take it again or choose a smaller photo.",
-    "networkError": "We couldn't reach DawaiSaathi. Check your internet connection and try again — your photos are still here."
+    "networkError": "We couldn't reach DawaiSaathi. Check your internet connection and try again — your photos are still here.",
+    "perPack": "{n}/pack"
   },
   "review": {
     "title": "Check what we found ({n})",
@@ -495,5 +496,14 @@
     "signInRequired": "Please sign in again to see who helps with care.",
     "signIn": "Sign in",
     "backToSettings": "Back to settings"
+  },
+  "forms": {
+    "tablet": "Tablet",
+    "capsule": "Capsule",
+    "syrup": "Syrup",
+    "drops": "Drops",
+    "injection": "Injection",
+    "cream": "Cream",
+    "other": "Other"
   }
 }
