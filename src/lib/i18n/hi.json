@@ -152,7 +152,8 @@
     "greetingEvening": "शुभ संध्या, {name}",
     "allDoneTitle": "आज की सभी दवाइयाँ ले ली गईं",
     "allDoneBody": "बहुत बढ़िया, {name}! हर खुराक की पुष्टि हो गई है।",
-    "streak": "{n} दिन की लगातार पुष्टि"
+    "streak": "{n} दिन की लगातार पुष्टि",
+    "previewCall": "कॉल सुनें"
   },
   "alarms": {
     "permissionTitle": "रिमाइंडर अलर्ट",

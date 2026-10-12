@@ -152,7 +152,8 @@
     "greetingEvening": "Good evening, {name}",
     "allDoneTitle": "All of today's medicines are taken",
     "allDoneBody": "Wonderful, {name}! Every dose is confirmed.",
-    "streak": "{n}-day streak"
+    "streak": "{n}-day streak",
+    "previewCall": "Preview call"
   },
   "alarms": {
     "permissionTitle": "Reminder alerts",

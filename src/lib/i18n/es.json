@@ -152,7 +152,8 @@
     "greetingEvening": "Buenas noches, {name}",
     "allDoneTitle": "Todas las medicinas de hoy están tomadas",
     "allDoneBody": "¡Muy bien, {name}! Cada dosis está confirmada.",
-    "streak": "Racha de {n} días"
+    "streak": "Racha de {n} días",
+    "previewCall": "Probar llamada"
   },
   "alarms": {
     "permissionTitle": "Alertas de recordatorio",
