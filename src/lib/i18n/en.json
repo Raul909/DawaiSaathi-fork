@@ -46,7 +46,13 @@
     "add": "Add",
     "demo": "DEMO",
     "perMonth": "/month",
-    "perYear": "every year"
+    "perYear": "every year",
+    "errorTitle": "Something went wrong",
+    "errorBody": "This screen could not load. Your medicines and reminders are safe — please try again.",
+    "goHome": "Go to home",
+    "notFoundTitle": "Page not found",
+    "notFoundBody": "This link may be old or mistyped.",
+    "closeDialog": "Close dialog"
   },
   "onboarding": {
     "welcomeTitle": "Welcome to DawaiSaathi",

@@ -46,7 +46,13 @@
     "add": "Agregar",
     "demo": "DEMO",
     "perMonth": "/mes",
-    "perYear": "cada ano"
+    "perYear": "cada ano",
+    "errorTitle": "Algo salió mal",
+    "errorBody": "Esta pantalla no se pudo cargar. Sus medicamentos y recordatorios están a salvo; inténtelo de nuevo.",
+    "goHome": "Ir al inicio",
+    "notFoundTitle": "Página no encontrada",
+    "notFoundBody": "Puede que este enlace sea antiguo o tenga un error.",
+    "closeDialog": "Cerrar diálogo"
   },
   "onboarding": {
     "welcomeTitle": "Bienvenido a DawaiSaathi",
