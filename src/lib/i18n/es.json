@@ -483,6 +483,10 @@
     "copyLinkError": "No pudimos copiar el enlace. Copielo manualmente.",
     "profileCardTitle": "Hogar",
     "profileCardBody": "Invite a cuidadores y administre quien tiene acceso a este hogar.",
-    "manageMembers": "Administrar miembros"
+    "manageMembers": "Administrar miembros",
+    "unavailable": "Compartir el cuidado con familiares requiere cuentas de cuidador, que aún no están activadas en esta app. Todo lo demás funciona como siempre.",
+    "signInRequired": "Inicie sesión de nuevo para ver quién ayuda con el cuidado.",
+    "signIn": "Iniciar sesión",
+    "backToSettings": "Volver a ajustes"
   }
 }

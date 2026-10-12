@@ -483,6 +483,10 @@
     "copyLinkError": "We couldn't copy the link. Please copy it manually.",
     "profileCardTitle": "Household",
     "profileCardBody": "Invite caregivers and manage who has access to this household.",
-    "manageMembers": "Manage members"
+    "manageMembers": "Manage members",
+    "unavailable": "Sharing care with family members needs caregiver accounts, which are not switched on for this app yet. Everything else works as usual.",
+    "signInRequired": "Please sign in again to see who helps with care.",
+    "signIn": "Sign in",
+    "backToSettings": "Back to settings"
   }
 }
